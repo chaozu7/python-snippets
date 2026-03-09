@@ -1,0 +1,13 @@
+1. to start project on Windows use:
+python -m django startproject projectname
+
+2. to run the serwer
+python manage.py runserver
+
+3. to stop server
+ctrl + c
+
+4. to create app
+python manage.py startapp
+
+

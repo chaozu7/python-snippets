@@ -1,0 +1,20 @@
+unary - base 1
+binary - base-2, 0 1
+bit - binary digit
+
+001 = 2^2 + 2^1 + 2^0
+010 = 2^2
+011
+100
+101
+110 
+111 
+1000 = 2^3 = 8
+11111111 = 128 + 64 + 32 + 16 + 8 + 4 + 2 + 1 = 255
+
+123 = 1*100+2*10+3*1
+
+A = 65 01000001
+ASCII maping numbers to letters
+
+Unicode

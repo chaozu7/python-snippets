@@ -1,0 +1,16 @@
+deklaratives 
+standaradized
+interactive via GUI or prompt
+DDL - data definition language
+DML - data manipulation language
+
+DDL
+#create table
+#drop table
+
+DDM
+#select 
+#insert
+#deklaratives
+#update
+

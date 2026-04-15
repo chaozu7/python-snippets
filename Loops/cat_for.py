@@ -15,3 +15,8 @@ while True:
         break
 for _ in range(n):
     print("meow")
+
+i = 1
+while i <=5:
+    print(i * "*")
+    i += 1

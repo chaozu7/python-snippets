@@ -1,6 +1,6 @@
 """about strings and their methods"""
 
-"""# remove whitespace from str
+# remove whitespace from str
 surname = input("What is your surname? ")
 surname = surname.strip()
 
@@ -22,8 +22,10 @@ print(f"{gender} it's my gender.")
 doublename = input("Put double name: ")
 doublename = doublename.split()
 print(doublename)  # ['Czarno', 'Biały']
-"""
+
 """ intiger int """
+x = 1_000 #1000 is more readable than 1000
+y = 2_000
 """ float """
 
 # List#
